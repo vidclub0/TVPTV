@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1,5001 TELEMUNDO HD
+http://190.90.252.200:16001/play/a001/index.m3u8
+#EXTINF:-1,5003 DISCOVERY CHANEL
+http://190.90.252.200:16001/play/a04b/index.m3u8
+#EXTINF:-1,5003 Discovery HD
+http://190.90.252.200:16001/play/a05k/index.m3u8
+#EXTINF:-1,5004 Animal Planet HD
+http://190.90.252.200:16001/play/a02r/index.m3u8
+#EXTINF:-1,5005 DHE
+http://190.90.252.200:16001/play/a04a/index.m3u8
+#EXTINF:-1,5006 UNIVISION
+http://190.90.252.200:16001/play/a006/index.m3u8
+#EXTINF:-1,5007 ID HD
+http://190.90.252.200:16001/play/a02b/index.m3u8
+#EXTINF:-1,5008 E!
+http://190.90.252.200:16001/play/a04f/index.m3u8
+#EXTINF:-1,5008 E! HD
+http://190.90.252.200:16001/play/a04F/index.m3u8
+#EXTINF:-1,5009 CNN
+http://190.90.252.200:16001/play/a009/index.m3u8
+#EXTINF:-1,5010 ID
+http://190.90.252.200:16001/play/a00b/index.m3u8
+#EXTINF:-1,5011 Discovery H&H HD
+http://190.90.252.200:16001/play/a02h/index.m3u8
+#EXTINF:-1,5011 H&H
+http://190.90.252.200:16001/play/a04l/index.m3u8
+#EXTINF:-1,5012 DISCOVERY KIDS
+http://190.90.252.200:16001/play/a04d/index.m3u8
+#EXTINF:-1,5012 Discovery Kids HD
+http://190.90.252.200:16001/play/a02g/index.m3u8
+#EXTINF:-1,5013 TURBO
+http://190.90.252.200:16001/play/a00e/index.m3u8
+#EXTINF:-1,5014 Discovery Theater HD
+http://190.90.252.200:16001/play/a02i/index.m3u8
+#EXTINF:-1,5015 Discovery World HD
+http://190.90.252.200:16001/play/a02n/index.m3u8
+#EXTINF:-1,5015 Discovey world
+http://190.90.252.200:16001/play/a04g/index.m3u8
+#EXTINF:-1,5017 DISNEY CHANEL
+http://190.90.252.200:16001/play/a04c/index.m3u8
+#EXTINF:-1,5017 Disney HD
+http://190.90.252.200:16001/play/a026/index.m3u8
+#EXTINF:-1,5026 Telehit HD
+http://190.90.252.200:16001/play/a03u/index.m3u8
+#EXTINF:-1,5027 WARNER
+http://190.90.252.200:16001/play/a049/index.m3u8
+#EXTINF:-1,5027 Warner Channel HD
+http://190.90.252.200:16001/play/a00v/index.m3u8
+#EXTINF:-1,5029 Nick HD
+http://190.90.252.200:16001/play/a00z/index.m3u8
+#EXTINF:-1,5030 Space HD
+http://190.90.252.200:16001/play/a00w/index.m3u8
+#EXTINF:-1,5030 space
+http://190.90.252.200:16001/play/a04i/index.m3u8
+#EXTINF:-1,5032 Comedy Central HD
+http://190.90.252.200:16001/play/a02a/index.m3u8
+#EXTINF:-1,5035 MTV 00s
+http://190.90.252.200:16001/play/a028/index.m3u8
+#EXTINF:-1,5036 TNT HD
+http://190.90.252.200:16001/play/a027/index.m3u8
+#EXTINF:-1,5037 TRU TV
+http://190.90.252.200:16001/play/a04o/index.m3u8
+#EXTINF:-1,5037 TRUTV HD
+http://190.90.252.200:16001/play/a02c/index.m3u8
+#EXTINF:-1,5040 RCN HD
+http://190.90.252.200:16001/play/a02l/index.m3u8
+#EXTINF:-1,5041 TNT Series HD
+http://190.90.252.200:16001/play/a02k/index.m3u8
+#EXTINF:-1,5042 Travelxp HD
+http://190.90.252.200:16001/play/a02e/index.m3u8
+#EXTINF:-1,5043 AMC HD
+http://190.90.252.200:16001/play/a02o/index.m3u8
+#EXTINF:-1,5044 Cartoon Network HD
+http://190.90.252.200:16001/play/a02p/index.m3u8
+#EXTINF:-1,5046 Paramount HD
+http://190.90.252.200:16001/play/a02q/index.m3u8
+#EXTINF:-1,5047 ESPN EXTRA HD
+http://190.90.252.200:16001/play/a047/index.m3u8
+#EXTINF:-1,5050 UMC
+http://190.90.252.200:16001/play/a04n/index.m3u8
+#EXTINF:-1,Canal 1 HD
+http://190.90.252.200:16001/play/a03v/index.m3u8
+#EXTINF:-1,Caracol HD
+http://190.90.252.200:16001/play/a05i/index.m3u8
+#EXTINF:-1,DHE HD
+http://190.90.252.200:16001/play/a05j/index.m3u8
+#EXTINF:-1,Food Network HD
+http://190.90.252.200:16001/play/a03x/index.m3u8
+#EXTINF:-1,GLITZ
+http://190.90.252.200:16001/play/a04u/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://190.90.252.200:16001/play/a05h/index.m3u8
