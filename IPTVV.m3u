@@ -26,19 +26,19 @@ http://45.4.3.75:7700/play/a01y
 #EXTINF:-1,Canal 13 Festival HD
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1,Canal 13 Entretencion HD
-https://list.iptvcat.com/my_list/s/d3a60614d35e92a5df9e918d583e7d5c.m3u8
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1,Canal 13 Humor HD
-https://list.iptvcat.com/my_list/s/e1c2f63971d4b3bc1772918ac2c0e6ed.m3u8
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1,Canal 13 Kids HD
-https://list.iptvcat.com/my_list/s/aff24596f4af30cc48bc7e759746a152.m3u8
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1,Canal 13 Prime HD
-https://list.iptvcat.com/my_list/s/4476ee51b7af9e329e1eaa6a1a7cdaf5.m3u8
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1,Canal 13 Realitys HD
-https://list.iptvcat.com/my_list/s/137db7c1610a5c265d85c8b537eeacb6.m3u8
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1,Canal 13 Teleseries HD
-https://list.iptvcat.com/my_list/s/819191b598407449a10e78c8d7fdbe45.m3u8
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1,Canal 13 Cultura
-https://list.iptvcat.com/my_list/s/16209491a6c1c1f8cd2ffbc47cbe562f.m3u8
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://45.4.3.75:7700/play/a024
 #EXTINF:-1,Caracol HD
@@ -50,7 +50,7 @@ http://45.4.3.75:7700/play/a014
 #EXTINF:-1,Cinemax HD
 http://45.4.3.75:7700/play/a00e
 #EXTINF:-1,Clarity 4K
-https://list.iptvcat.com/my_list/s/70f78a4fdbea8d202f836986b8384714.m3u8
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1,Clover HD
 http://45.4.3.75:7700/play/a02q
 #EXTINF:-1,Comedy Central HD
