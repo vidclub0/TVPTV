@@ -25,6 +25,20 @@ http://45.4.3.75:7700/play/a01m
 http://45.4.3.75:7700/play/a01y
 #EXTINF:-1,Canal 13 Festival HD
 https://list.iptvcat.com/my_list/s/92399cb53213abbad7f668b1cee891c6.m3u8
+#EXTINF:-1,Canal 13 Entretencion HD
+https://list.iptvcat.com/my_list/s/d3a60614d35e92a5df9e918d583e7d5c.m3u8
+#EXTINF:-1,Canal 13 Humor HD
+https://list.iptvcat.com/my_list/s/e1c2f63971d4b3bc1772918ac2c0e6ed.m3u8
+#EXTINF:-1,Canal 13 Kids HD
+https://list.iptvcat.com/my_list/s/aff24596f4af30cc48bc7e759746a152.m3u8
+#EXTINF:-1,Canal 13 Prime HD
+https://list.iptvcat.com/my_list/s/4476ee51b7af9e329e1eaa6a1a7cdaf5.m3u8
+#EXTINF:-1,Canal 13 Realitys HD
+https://list.iptvcat.com/my_list/s/137db7c1610a5c265d85c8b537eeacb6.m3u8
+#EXTINF:-1,Canal 13 Teleseries HD
+https://list.iptvcat.com/my_list/s/819191b598407449a10e78c8d7fdbe45.m3u8
+#EXTINF:-1,Canal 13 Cultura
+https://list.iptvcat.com/my_list/s/16209491a6c1c1f8cd2ffbc47cbe562f.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://45.4.3.75:7700/play/a024
 #EXTINF:-1,Caracol HD
@@ -193,6 +207,8 @@ http://45.4.3.75:7700/play/a01l
 http://45.228.234.193:16003/play/a0c3/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://45.4.3.75:7700/play/a01u
+#EXTINF:-1,UCV HD
+https://list.iptvcat.com/my_list/s/9187ad9ad363db890da271b12576d245.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://45.4.3.75:7700/play/a00p
 #EXTINF:-1,UNIVERSAL CINEMA ESTE HD
