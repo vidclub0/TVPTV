@@ -153,6 +153,8 @@ http://45.4.3.75:7700/play/a00c
 http://45.4.3.75:7700/play/a025
 #EXTINF:-1,MTV HD US
 http://odm391.xyz:80/89A6A570A78608D/cxMjVb99Iy/71397
+#EXTINF:-1,MTV 80s
+http://45.190.187.241:58001/play/a04a/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 http://45.4.3.75:7700/play/a01i
 #EXTINF:-1,NTV
@@ -233,10 +235,14 @@ http://45.228.234.193:16003/play/a0fd/index.m3u8
 http://45.228.234.193:16003/play/a0fe/index.m3u8
 #EXTINF:-1,Univision HD
 http://45.228.234.193:16002/play/a0ff/index.m3u8
+#EXTINF:-1,Via X
+http://45.4.3.75:8005/play/a067
 #EXTINF:-1,Warner Channel HD
 http://45.4.3.75:7700/play/a02j
 #EXTINF:-1,Win Sports HD
 http://45.4.3.75:7700/play/a02p
 #EXTINF:-1,Win Sports+ HD
 http://45.4.3.75:7700/play/a01f
+#EXTINF:-1,Zona Latina
+http://45.4.3.75:8005/play/a066
 
