@@ -217,8 +217,6 @@ http://45.4.3.75:7700/play/a01l
 http://45.228.234.193:16003/play/a0c3/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://45.4.3.75:7700/play/a01u
-#EXTINF:-1,UCV HD
-https://list.iptvcat.com/my_list/s/9187ad9ad363db890da271b12576d245.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://45.4.3.75:7700/play/a00p
 #EXTINF:-1,UNIVERSAL CINEMA ESTE HD
@@ -234,7 +232,7 @@ http://45.228.234.193:16003/play/a0fd/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://45.228.234.193:16003/play/a0fe/index.m3u8
 #EXTINF:-1,Univision HD
-http://45.228.234.193:16002/play/a0ff/index.m3u8
+http://45.228.234.193:16003/play/a0ez/index.m3u8
 #EXTINF:-1,Via X
 http://45.4.3.75:8005/play/a067
 #EXTINF:-1,Warner Channel HD
