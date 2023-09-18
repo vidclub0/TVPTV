@@ -123,6 +123,8 @@ http://45.4.3.75:7700/play/a017
 http://45.4.3.75:7700/play/a02o
 #EXTINF:-1,HBO XTREME HD
 http://45.4.3.75:7700/play/a02d
+#EXTINF:-1,HBO MUNDI
+http://45.4.3.75:8005/play/a094
 #EXTINF:-1,HOLA TV HD
 http://45.4.3.75:7700/play/a007
 #EXTINF:-1,History 2 HD
