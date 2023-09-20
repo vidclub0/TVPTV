@@ -86,7 +86,7 @@ http://176.65.146.100:8001/play/a0en/index.m3u8
 #EXTINF:-1,E! HD
 http://45.4.3.75:7700/play/a01o
 #EXTINF:-1,EUROPA HD
-http://45.228.234.193:16003/playlist.m3u8
+http://45.228.234.193:16003/play/a0cc/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://45.4.3.75:7700/play/a02r
 #EXTINF:-1,ESPN 2 HD
@@ -114,7 +114,7 @@ http://45.4.3.75:7700/play/a00r
 #EXTINF:-1,FX HD
 http://45.4.3.75:7700/play/a00v
 #EXTINF:-1,Freeform HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12755
+
 #EXTINF:-1,Food Network HD
 http://45.4.3.75:7700/play/a01r
 #EXTINF:-1,Fox Sports 1 HD
