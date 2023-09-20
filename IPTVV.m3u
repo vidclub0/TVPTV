@@ -171,6 +171,8 @@ http://45.4.3.75:7700/play/a00c
 http://45.4.3.75:7700/play/a025
 #EXTINF:-1,MTV Live HD
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58589
+#EXTINF:-1,MTV Live Dual HD
+http://45.228.234.193:16003/play/a0fa/index.m3u8
 #EXTINF:-1,MTV 80s
 http://45.190.187.241:58001/play/a04a/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
