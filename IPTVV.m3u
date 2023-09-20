@@ -153,8 +153,10 @@ http://45.4.3.75:7700/play/a011
 http://45.4.3.75:7700/play/a00c
 #EXTINF:-1,MTV HD
 http://45.4.3.75:7700/play/a025
-#EXTINF:-1,MTV HD US
-http://odm391.xyz:80/89A6A570A78608D/cxMjVb99Iy/71397
+#EXTINF:-1,MTV Live HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1965
+#EXTINF:-1,MTV Hits FR
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1966
 #EXTINF:-1,MTV 80s
 http://45.190.187.241:58001/play/a04a/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
