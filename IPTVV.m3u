@@ -154,9 +154,7 @@ http://45.4.3.75:7700/play/a00c
 #EXTINF:-1,MTV HD
 http://45.4.3.75:7700/play/a025
 #EXTINF:-1,MTV Live HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1965
-#EXTINF:-1,MTV Hits FR
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1966
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58589
 #EXTINF:-1,MTV 80s
 http://45.190.187.241:58001/play/a04a/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
@@ -239,6 +237,8 @@ http://45.228.234.193:16003/play/a0fe/index.m3u8
 http://45.228.234.193:16003/play/a0ez/index.m3u8
 #EXTINF:-1,Via X
 http://45.4.3.75:8005/play/a067
+#EXTINF:-1,VH1 HD US
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62109
 #EXTINF:-1,Warner Channel HD
 http://45.4.3.75:7700/play/a02j
 #EXTINF:-1,Win Sports HD
