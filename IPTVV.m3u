@@ -13,6 +13,8 @@ http://45.70.201.252:8889/play/a060/index.m3u8
 http://45.70.201.252:8889/play/a009/index.m3u8
 #EXTINF:-1,AZ Cinema HD
 http://45.70.201.252:8889/play/a02e/index.m3u8
+#EXTINF:-1,AZ click HD
+http://201.159.113.220:49000/play/a04u/index.m3u8
 #EXTINF:-1,America TV HD
 http://45.70.201.252:8889/play/a02t/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -125,8 +127,8 @@ http://45.70.201.252:8889/play/a00t/index.m3u8
 http://45.70.201.252:8889/play/a02o/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://45.70.201.252:8889/play/a012/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol SD
-http://45.70.201.252:8889/play/a01x/index.m3u8
+#EXTINF:-1,Europa HD
+http://201.159.113.218:49000/play/a04r/index.m3u8
 #EXTINF:-1,Eurochannel
 http://45.70.201.252:8889/play/a080/index.m3u8
 #EXTINF:-1,Eurochannel
@@ -321,6 +323,10 @@ http://45.70.201.252:8889/play/a021/index.m3u8
 http://45.70.201.252:8889/play/a06e/index.m3u8
 #EXTINF:-1,TVN HD
 http://45.70.201.252:8889/play/a00n/index.m3u8
+#EXTINF:-1,TVN 3 HD
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?uid=htTm81PE5ipd6r7xj34ie9XKUeAra94x&sid=YkPTqqDiirIfK07ENMueZeEBcs9GDa4a&pid=QKhar7zNYsNCDmqsV8TvkXOdpYuXfdMd&an=screen&at=web-app&av=v5.2.379&ref=https%3A%2F%2Fwww.tvn.cl%2F&res=1227x715&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=7719052a-30ed-44bf-8f03-eed11a050bd1
+#EXTINF:-1,TV CHILE HD
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=htTm81PE5ipd6r7xj34ie9XKUeAra94x&sid=YkPTqqDiirIfK07ENMueZeEBcs9GDa4a&pid=i4A42d1wJub9RibqEuNhZwzpTlprcceC&an=screen&at=web-app&av=v5.2.379&ref=https%3A%2F%2Fwww.tvn.cl%2F&res=1227x715&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=3f1cb66d-868a-4e5b-9c2a-a8e4b90aa6e1
 #EXTINF:-1,Telehit HD
 http://45.70.201.252:8889/play/a02m/index.m3u8
 #EXTINF:-1,Telemundo
