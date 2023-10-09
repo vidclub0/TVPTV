@@ -61,8 +61,6 @@ http://45.70.201.252:8889/play/a00l/index.m3u8
 http://45.70.201.252:8889/play/a041/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://45.70.201.252:8889/play/a02a/index.m3u8
-#EXTINF:-1,Boomerang HD US
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/58610
 #EXTINF:-1,Cinecanal HD
 http://45.70.201.252:8889/play/a025/index.m3u8
 #EXTINF:-1,Cinemax HD
@@ -77,8 +75,6 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://45.70.201.252:8889/play/a00f/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://45.70.201.252:8889/play/a00z/index.m3u8
-#EXTINF:-1,CW HD
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/58506
 #EXTINF:-1,DHE HD
 http://45.70.201.252:8889/play/a077/index.m3u8
 #EXTINF:-1,De PelŦcula
@@ -109,6 +105,8 @@ http://45.70.201.252:8889/play/a00q/index.m3u8
 http://45.70.201.252:8889/play/a01n/index.m3u8
 #EXTINF:-1,E! HD
 http://45.70.201.252:8889/play/a02p/index.m3u8
+#EXTINF:-1,el trece HD
+http://45.186.252.17:8000/play/a0bw
 #EXTINF:-1,ESPN 2 HD
 http://45.70.201.252:8889/play/a00g/index.m3u8
 #EXTINF:-1,ESPN 2 HD
@@ -117,18 +115,10 @@ http://45.70.201.252:8889/play/a00c/index.m3u8
 http://45.70.201.252:8889/play/a00t/index.m3u8
 #EXTINF:-1,ESPN HD
 http://45.70.201.252:8889/play/a02o/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.70.201.252:8889/play/a00k/index.m3u8
-#EXTINF:-1,Ecuador TV
-http://45.70.201.252:8889/play/a01w/index.m3u8
-#EXTINF:-1,Ecuavisa
-http://45.70.201.252:8889/play/a01v/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://45.70.201.252:8889/play/a012/index.m3u8
 #EXTINF:-1,ElCanaldelFutbol SD
 http://45.70.201.252:8889/play/a01x/index.m3u8
-#EXTINF:-1,Enlace
-http://45.70.201.252:8889/play/a043/index.m3u8
 #EXTINF:-1,Eurochannel
 http://45.70.201.252:8889/play/a080/index.m3u8
 #EXTINF:-1,Eurochannel
@@ -153,6 +143,22 @@ http://45.70.201.252:8889/play/a05a/index.m3u8
 http://45.70.201.252:8889/play/a02q/index.m3u8
 #EXTINF:-1,Golden HD
 http://45.70.201.252:8889/play/a02l/index.m3u8
+#EXTINF:-1,HBO
+http://45.186.252.17:8000/play/a0be
+#EXTINF:-1,HBO 2
+http://45.186.252.17:8000/play/a0bg
+#EXTINF:-1,HBO Family
+http://45.186.252.17:8000/play/a0bh
+#EXTINF:-1,HBO Mundi
+http://45.186.252.17:8000/play/a0af
+#EXTINF:-1,HBO POP
+http://45.186.252.17:8000/play/a0ae
+#EXTINF:-1,HBO Plus
+http://45.186.252.17:8000/play/a0bf
+#EXTINF:-1,HBO Signature
+http://45.186.252.17:8000/play/a0ah
+#EXTINF:-1,HBO Xtreme
+http://45.186.252.17:8000/play/a0ag
 #EXTINF:-1,HBO 2 HD
 http://45.70.201.252:8889/play/a02f/index.m3u8
 #EXTINF:-1,HBO Family HD
@@ -305,12 +311,6 @@ http://45.70.201.252:8889/play/a021/index.m3u8
 http://45.70.201.252:8889/play/a06e/index.m3u8
 #EXTINF:-1,TVN HD
 http://45.70.201.252:8889/play/a00n/index.m3u8
-#EXTINF:-1,Teleamazonas
-http://45.70.201.252:8889/play/a01s/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://45.70.201.252:8889/play/a07s/index.m3u8
-#EXTINF:-1,Telecaribe
-http://45.70.201.252:8889/play/a042/index.m3u8
 #EXTINF:-1,Telehit HD
 http://45.70.201.252:8889/play/a02m/index.m3u8
 #EXTINF:-1,Telemundo
@@ -331,8 +331,30 @@ http://45.70.201.252:8889/play/a04i/index.m3u8
 http://45.70.201.252:8889/play/a02v/index.m3u8
 #EXTINF:-1,TV LAND HD 
 http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/58581
+#EXTINF:-1,ViaX
+http://45.4.3.75:7577/play/a14m/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://45.70.201.252:8889/play/a053/index.m3u8
+#EXTINF:-1,Universal Cinema SD
+http://45.4.3.74:7577/play/a140/index.m3u8
+#EXTINF:-1,Universal Comedy SD
+http://45.4.3.74:7577/play/a141/index.m3u8
+#EXTINF:-1,Universal Premiere SD
+http://45.4.3.74:7577/play/a13z/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://45.190.187.226:58092/play/a013
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://45.190.187.226:58092/play/a00o
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://45.190.187.226:58092/play/a00n
+#EXTINF:-1,UNIVERSAL PREMIERE +
+http://45.190.187.226:58092/play/a00l
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://45.190.187.226:58092/play/a00k
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://45.190.187.226:58092/play/a00m
+#EXTINF:-1,Univision HD
+http://45.190.187.226:58092/play/a011
 #EXTINF:-1,VH1 HD US
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62109
 #EXTINF:-1,Venevisiðn
@@ -345,3 +367,5 @@ http://45.70.201.252:8889/play/a008/index.m3u8
 http://45.70.201.252:8889/play/a00e/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://45.70.201.252:8889/play/a02g/index.m3u8
+#EXTINF:-1,Zona Latina
+http://45.4.3.75:7577/play/a134/index.m3u8
