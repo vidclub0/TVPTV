@@ -21,6 +21,12 @@ http://45.70.201.252:8889/play/a02h/index.m3u8
 http://45.70.201.252:8889/play/a07k/index.m3u8
 #EXTINF:-1,Baby TV
 http://45.70.201.252:8889/play/a07u/index.m3u8
+#EXTINF:-1,BCU Kids 4K
+http://45.139.184.154:8000/play/a017/index.m3u8
+#EXTINF:-1,BCU Premiere Ultra 4K
+http://45.139.184.154:8000/play/a00f/index.m3u8
+#EXTINF:-1,BCU Ultra 4K
+http://45.139.184.154:8000/play/a015/index.m3u8
 #EXTINF:-1,CHV HD
 http://45.70.201.252:8889/play/a00o/index.m3u8
 #EXTINF:-1,CNN Chile HD
