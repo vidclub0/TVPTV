@@ -19,6 +19,8 @@ http://45.70.201.252:8889/play/a02t/index.m3u8
 http://45.70.201.252:8889/play/a02h/index.m3u8
 #EXTINF:-1,BBC World
 http://45.70.201.252:8889/play/a07k/index.m3u8
+#EXTINF:-1,BBC Earth HD
+http://37.48.101.149:7019/play/a02i/index.m3u8
 #EXTINF:-1,Baby TV
 http://45.70.201.252:8889/play/a07u/index.m3u8
 #EXTINF:-1,BCU Kids 4K
