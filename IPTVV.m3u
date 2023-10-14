@@ -265,8 +265,8 @@ http://45.70.201.252:8889/play/a02b/index.m3u8
 http://45.70.201.252:8889/play/a06k/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://45.70.201.252:8889/play/a00p/index.m3u8
-#EXTINF:-1,RCN
-http://45.70.201.252:8889/play/a05d/index.m3u8
+#EXTINF:-1,Rai 4K
+http://176.65.146.136:8020/play/a06l/index.m3u8
 #EXTINF:-1,Rai 1 HD
 http://176.65.146.136:8002/play/a0ek/index.m3u8
 #EXTINF:-1,Rai 2 HD
@@ -381,6 +381,10 @@ http://201.159.113.222:49000/play/a057/index.m3u8
 http://201.159.113.222:49000/play/a058/index.m3u8
 #EXTINF:-1,USA
 http://181.129.198.235:8000/play/a07v/index.m3u8
+#EXTINF:-1,UHD1 by ASTRA / HD+
+http://149.100.19.135:8000/play/a004
+#EXTINF:-1,SES UHD Demo Channel
+http://149.100.19.135:8000/play/a003
 #EXTINF:-1,VH1 HD US
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62109
 #EXTINF:-1,Vive
