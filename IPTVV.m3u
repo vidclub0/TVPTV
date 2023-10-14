@@ -111,6 +111,8 @@ http://45.70.201.252:8889/play/a08i/index.m3u8
 http://45.70.201.252:8889/play/a06l/index.m3u8
 #EXTINF:-1,Disney HD
 http://45.70.201.252:8889/play/a00q/index.m3u8
+#EXTINF:-1,DREAMWORKS
+http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1,Distrito Comedia
 http://45.70.201.252:8889/play/a01n/index.m3u8
 #EXTINF:-1,E! HD
@@ -279,12 +281,6 @@ http://45.70.201.252:8889/play/a052/index.m3u8
 http://45.70.201.252:8889/play/a072/index.m3u8
 #EXTINF:-1,STAR TVE HD
 http://45.70.201.252:8889/play/a02d/index.m3u8
-#EXTINF:-1,Sextreme
-http://45.70.201.252:8889/play/a06h/index.m3u8
-#EXTINF:-1,Seæal Colombia
-http://45.70.201.252:8889/play/a05c/index.m3u8
-#EXTINF:-1,Seæal Colombia HD
-http://45.70.201.252:8889/play/a02k/index.m3u8
 #EXTINF:-1,Sony HD
 http://45.70.201.252:8889/play/a007/index.m3u8
 #EXTINF:-1,Sony Movies
@@ -383,6 +379,8 @@ http://201.159.113.222:49000/play/a056/index.m3u8
 http://201.159.113.222:49000/play/a057/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://201.159.113.222:49000/play/a058/index.m3u8
+#EXTINF:-1,USA
+http://181.129.198.235:8000/play/a07v/index.m3u8
 #EXTINF:-1,VH1 HD US
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62109
 #EXTINF:-1,Vive
