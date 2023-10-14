@@ -267,12 +267,12 @@ http://45.70.201.252:8889/play/a06k/index.m3u8
 http://45.70.201.252:8889/play/a00p/index.m3u8
 #EXTINF:-1,RCN
 http://45.70.201.252:8889/play/a05d/index.m3u8
+#EXTINF:-1,Rai 1 HD
+http://176.65.146.136:8002/play/a0ek/index.m3u8
+#EXTINF:-1,Rai 2 HD
+http://176.65.146.136:8002/play/a0el/index.m3u8
 #EXTINF:-1,RED Televisiðn
 http://45.70.201.252:8889/play/a06a/index.m3u8
-#EXTINF:-1,RTS
-http://45.70.201.252:8889/play/a01o/index.m3u8
-#EXTINF:-1,RTU
-http://45.70.201.252:8889/play/a01p/index.m3u8
 #EXTINF:-1,Stingray Concerts HD
 http://45.175.166.13:49010/play/a0af/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
