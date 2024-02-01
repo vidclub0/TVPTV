@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,CHV
+http://181.78.22.70:8000/play/a068/index.m3u8
 #EXTINF:-1 ,3ABN LATINO
 http://45.166.92.22:58001/play/a04z/index.m3u8
 #EXTINF:-1 ,A&E HD
